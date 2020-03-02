@@ -1,1 +1,3 @@
-# homebrew-keg
+# Keg
+
+My tap for Homebrew.
